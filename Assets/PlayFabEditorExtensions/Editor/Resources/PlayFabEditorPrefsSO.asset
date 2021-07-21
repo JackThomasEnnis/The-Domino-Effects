@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: jackthomasennis@gmail.com
+  DevAccountToken: iarhoiq7tuexz3btuanbm6cij3qi675h9ppozwq516yz94dtqnjiep3ifujbj6zbfp3exufgu9hhd6spgohqyspqz1up51ow45dqg4czawkoueeh9mip3i43eypcm8np8ixsixyojtp6q8wndsqpu93rw88u7zzzwyimg3tchw6kkijkn7g4nit8m9dw76um9cansqbu
+  SelectedStudio: Riot Car Studios
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0

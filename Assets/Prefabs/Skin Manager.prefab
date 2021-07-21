@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7050571058993638664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7050571058993638666}
+  - component: {fileID: 7050571058993638665}
+  m_Layer: 0
+  m_Name: Skin Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7050571058993638666
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7050571058993638664}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.557733, y: 1.2337644, z: -0.87782556}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7050571058993638665
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7050571058993638664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36740ec1db328eb4cb4c3391480d167a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  NormalEmpty: {fileID: 21300000, guid: f8d249ff3a89a7c4da405d1047c2b091, type: 3}
+  NormalUp: {fileID: 21300000, guid: cddce69500bc1d8458683c27afd514b8, type: 3}
+  NormalLeft: {fileID: 21300000, guid: 797960525b5483e4e8b08ec1bf1cee00, type: 3}
+  NormalDown: {fileID: 21300000, guid: cd634daec9e78a4478aafe19b42a9a80, type: 3}
+  NormalRight: {fileID: 21300000, guid: 0569de59bb1f67741a85baa5e95d5611, type: 3}
+  NormalUpLeft: {fileID: 21300000, guid: 39bc6a27d8fbe374890b182dc8533469, type: 3}
+  NormalLeftDown: {fileID: 21300000, guid: 3ae6e7bcc5ee587449733bf5238a8e91, type: 3}
+  NormalDownRight: {fileID: 21300000, guid: f6fcf260dddfabb488cfca1311e61707, type: 3}
+  NormalUpRight: {fileID: 21300000, guid: abf34bec7360ee143937fac003ddc3ad, type: 3}
+  NormalUpDown: {fileID: 21300000, guid: 8fc840d7ffa86b14089945a7af56d57e, type: 3}
+  NormalLeftRight: {fileID: 21300000, guid: e84221dca4858784eb64544fd1b1510b, type: 3}
+  NormalUpLeftDown: {fileID: 21300000, guid: 84633231b6782db4ea96edc67408b572, type: 3}
+  NormalLeftDownRight: {fileID: 21300000, guid: 43e202d85c247db4f9e3713d7d0afd5e, type: 3}
+  NormalUpDownRight: {fileID: 21300000, guid: 9e13291d73e89554192f9d972fd29850, type: 3}
+  NormalUpLeftRight: {fileID: 21300000, guid: 7ceb4c7aef03897488047f11251b1762, type: 3}
+  NormalUpLeftDownRight: {fileID: 21300000, guid: 8125d7791f760e146aeca5c809df6b31, type: 3}
+  LockEmpty: {fileID: 21300000, guid: 1fa0f1ada781e4c49920b67a977676e0, type: 3}
+  LockUp: {fileID: 21300000, guid: 25c438a1f65712f43be21a8ffefdcbbc, type: 3}
+  LockLeft: {fileID: 21300000, guid: 35ca1d26998968f4da30711a069d502f, type: 3}
+  LockDown: {fileID: 21300000, guid: c22054a20fde9944db7191c5322fe2bf, type: 3}
+  LockRight: {fileID: 21300000, guid: 041f4148306baa54f9ae46746af8ceed, type: 3}
+  LockUpLeft: {fileID: 21300000, guid: 28c2bbc3f40bcd648b944aed1b8b8c7b, type: 3}
+  LockLeftDown: {fileID: 21300000, guid: da7c8ba5a7c32aa4385ff8efa076de5e, type: 3}
+  LockDownRight: {fileID: 21300000, guid: 846ea8caeccfead469b0ac816604a951, type: 3}
+  LockUpRight: {fileID: 21300000, guid: 179db04177595ac4e9f5b16cbb9478aa, type: 3}
+  LockUpDown: {fileID: 21300000, guid: afcc53436b4ba564691f6d296a3ef1f5, type: 3}
+  LockLeftRight: {fileID: 21300000, guid: 007339f232fd05146a8bf0892725e867, type: 3}
+  LockUpLeftDown: {fileID: 21300000, guid: 1f669d000c38c994ca15fc48b1e980db, type: 3}
+  LockLeftDownRight: {fileID: 21300000, guid: af496e96449e1b74684909d1e4f16701, type: 3}
+  LockUpDownRight: {fileID: 21300000, guid: 80ede99d29b5e1b43ab811f876d787fc, type: 3}
+  LockUpLeftRight: {fileID: 21300000, guid: 8067c4dd596a5c543b4cd237cf5acf2d, type: 3}
+  LockUpLeftDownRight: {fileID: 21300000, guid: 03f77f28fec845b43af69abdb6f0e3fd, type: 3}
+  LeftArrow: {fileID: 21300000, guid: 04ef20666dc18ef478befd47b11e3f38, type: 3}
+  RightArrow: {fileID: 21300000, guid: eeb3b84bdeb6fef4181a940fa1c5a01e, type: 3}
